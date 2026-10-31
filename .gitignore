@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+celerybeat-schedule*
+staticfiles/
+.ruff_cache/
+.runtime/
